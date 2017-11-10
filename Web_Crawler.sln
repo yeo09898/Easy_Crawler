@@ -1,0 +1,75 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "static", "static\", "{36B9D841-EE17-4E0C-8E41-1EB502BA24DD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60652"
+		Debug.AspNetCompiler.PhysicalPath = "static\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60652\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60652"
+		Release.AspNetCompiler.PhysicalPath = "static\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60652\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60652"
+		SlnRelativePath = "static\"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "templates", "templates\", "{DFC275FE-93FB-4330-ACC7-932CE0D63B5A}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60654"
+		Debug.AspNetCompiler.PhysicalPath = "templates\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60654\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60654"
+		Release.AspNetCompiler.PhysicalPath = "templates\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60654\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60654"
+		SlnRelativePath = "templates\"
+	EndProjectSection
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Web_Crawler", "Web_Crawler.pyproj", "{C129F64F-D163-4721-A995-7BDD51BFE3D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36B9D841-EE17-4E0C-8E41-1EB502BA24DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B9D841-EE17-4E0C-8E41-1EB502BA24DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B9D841-EE17-4E0C-8E41-1EB502BA24DD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B9D841-EE17-4E0C-8E41-1EB502BA24DD}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{DFC275FE-93FB-4330-ACC7-932CE0D63B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC275FE-93FB-4330-ACC7-932CE0D63B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC275FE-93FB-4330-ACC7-932CE0D63B5A}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC275FE-93FB-4330-ACC7-932CE0D63B5A}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C129F64F-D163-4721-A995-7BDD51BFE3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C129F64F-D163-4721-A995-7BDD51BFE3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C129F64F-D163-4721-A995-7BDD51BFE3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C129F64F-D163-4721-A995-7BDD51BFE3D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC3578B4-9972-401E-AB7C-5FF4626BF1E3}
+	EndGlobalSection
+EndGlobal

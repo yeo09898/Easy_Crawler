@@ -1,0 +1,7 @@
+SEEK_SET
+open
+warnings
+_posixfile_
+SEEK_END
+SEEK_CUR
+fileopen

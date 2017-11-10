@@ -1,0 +1,7 @@
+__revision__
+DistutilsOptionError
+Command
+PYTHON_SOURCE_EXTENSION
+os
+sys
+install_lib

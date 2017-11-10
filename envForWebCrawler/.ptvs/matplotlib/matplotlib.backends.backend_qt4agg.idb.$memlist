@@ -1,0 +1,13 @@
+FigureCanvasAgg
+FigureCanvasQTAggBase
+six
+NavigationToolbar2QT
+absolute_import
+unicode_literals
+division
+print_function
+FigureCanvasQTAgg
+FigureCanvasQT
+_BackendQT4
+FigureManagerQT
+_BackendQT4Agg

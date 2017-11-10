@@ -1,0 +1,14 @@
+n
+cStringIO
+os
+operator
+SysModuleTest
+unittest
+test_main
+assert_python_ok
+struct
+assert_python_failure
+gc
+SizeofTest
+sys
+test

@@ -1,0 +1,13 @@
+subst
+lookup
+os
+__all__
+readmailcapfile
+findmatch
+findparam
+getcaps
+show
+parseline
+listmailcapfiles
+test
+parsefield

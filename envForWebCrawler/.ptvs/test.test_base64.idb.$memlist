@@ -1,0 +1,6 @@
+test_support
+unittest
+base64
+LegacyBase64TestCase
+BaseXYTestCase
+test_main

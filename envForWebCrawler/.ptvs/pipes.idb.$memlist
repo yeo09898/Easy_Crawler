@@ -1,0 +1,16 @@
+tempfile
+re
+quote
+os
+string
+_safechars
+stepkinds
+STDIN_FILEOUT
+STDIN_STDOUT
+makepipeline
+__all__
+Template
+SOURCE
+FILEIN_FILEOUT
+FILEIN_STDOUT
+SINK

@@ -1,0 +1,14 @@
+h_template
+c_template
+numpy_api
+os
+do_generate_api
+generate_api
+division
+c_api_header
+print_function
+genapi
+BoolValuesApi
+GlobalVarApi
+FunctionApi
+TypeApi

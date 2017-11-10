@@ -1,0 +1,12 @@
+BuildDumbTestCase
+support
+zipfile
+os
+Distribution
+sys
+test_suite
+run_unittest
+SETUP_PY
+bdist_dumb
+zlib
+unittest

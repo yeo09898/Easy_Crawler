@@ -1,0 +1,9 @@
+test_main
+locale
+run_with_locale
+check_py3k_warnings
+run_unittest
+TypesTests
+have_unicode
+sys
+unittest

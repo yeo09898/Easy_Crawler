@@ -1,0 +1,10 @@
+TABLEAU_COLORS
+six
+absolute_import
+unicode_literals
+BASE_COLORS
+division
+CSS4_COLORS
+print_function
+XKCD_COLORS
+OrderedDict

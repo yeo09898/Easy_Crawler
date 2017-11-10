@@ -1,0 +1,17 @@
+QP
+add_charset
+CODEC_MAP
+MISC_LEN
+BASE64
+Charset
+ALIASES
+DEFAULT_CHARSET
+add_alias
+email
+__all__
+encode_7or8bit
+codecs
+errors
+CHARSETS
+SHORTEST
+add_codec

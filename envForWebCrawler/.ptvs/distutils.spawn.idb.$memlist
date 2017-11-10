@@ -1,0 +1,16 @@
+sysconfig
+_spawn_posix
+spawn
+DEBUG
+DistutilsPlatformError
+_spawn_os2
+__revision__
+sys
+_cfg_target
+_cfg_target_split
+log
+os
+find_executable
+DistutilsExecError
+_nt_quote_args
+_spawn_nt

@@ -1,0 +1,5 @@
+verbose
+cd
+import_module
+cdattrs
+test_main

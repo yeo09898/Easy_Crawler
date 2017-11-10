@@ -1,0 +1,4 @@
+setup_py_test
+nose
+NoseSQLAlchemy
+main

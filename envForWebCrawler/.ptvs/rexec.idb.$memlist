@@ -1,0 +1,16 @@
+sys
+TEMPLATE
+imp
+RExec
+warnpy3k
+os
+FileWrapper
+RHooks
+__builtin__
+__all__
+test
+FileDelegate
+RModuleImporter
+RModuleLoader
+FileBase
+ihooks

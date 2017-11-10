@@ -1,0 +1,12 @@
+shutil
+os
+optparse
+logging
+diff_texts
+refactor
+difflib
+with_statement
+StdoutRefactoringTool
+main
+warn
+sys

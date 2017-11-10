@@ -1,0 +1,10 @@
+Pickler
+BsdDbShelf
+__all__
+open
+UserDict
+StringIO
+_ClosedDict
+DbfilenameShelf
+Unpickler
+Shelf

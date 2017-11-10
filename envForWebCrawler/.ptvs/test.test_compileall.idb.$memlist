@@ -1,0 +1,11 @@
+imp
+os
+struct
+test_support
+shutil
+py_compile
+CompileallTests
+test_main
+compileall
+tempfile
+unittest

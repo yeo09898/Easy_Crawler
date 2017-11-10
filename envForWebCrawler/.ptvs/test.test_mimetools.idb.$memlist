@@ -1,0 +1,8 @@
+mimetools
+test_support
+msgtext1
+string
+StringIO
+MimeToolsTest
+test_main
+unittest

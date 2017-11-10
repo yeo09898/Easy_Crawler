@@ -1,0 +1,14 @@
+auto_adjust_subplotpars
+get_subplotspec_list
+_get_bottom
+_get_right
+_get_left
+warnings
+rcParams
+_get_top
+get_tight_layout_figure
+get_renderer
+Bbox
+FontProperties
+matplotlib
+TransformedBbox

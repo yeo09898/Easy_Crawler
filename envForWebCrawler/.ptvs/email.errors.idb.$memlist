@@ -1,0 +1,13 @@
+MessageDefect
+BoundaryError
+MisplacedEnvelopeHeaderDefect
+MalformedHeaderDefect
+MessageParseError
+MessageError
+HeaderParseError
+CharsetError
+NoBoundaryInMultipartDefect
+MultipartInvariantViolationDefect
+StartBoundaryNotFoundDefect
+FirstHeaderLineIsContinuationDefect
+MultipartConversionError

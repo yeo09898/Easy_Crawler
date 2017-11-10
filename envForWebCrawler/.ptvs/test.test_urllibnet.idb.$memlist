@@ -1,0 +1,17 @@
+mimetools
+time
+test_main
+ssl
+urlretrieveNetworkTests
+os
+CERT_selfsigned_pythontestdotnet
+sys
+urlopenNetworkTests
+test_support
+_open_with_retry
+here
+URLTimeoutTest
+socket
+urlopen_HttpsTests
+unittest
+urllib

@@ -1,0 +1,12 @@
+findfile
+test_main
+imghdr
+TEST_FILES
+run_unittest
+TestImghdr
+unlink
+UnseekableIO
+TESTFN
+io
+sys
+unittest

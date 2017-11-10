@@ -1,0 +1,14 @@
+SequenceClass
+IteratingSequenceClass
+unlink
+TRIPLETS
+test_main
+TestCase
+check_py3k_warnings
+cpython_only
+BasicIterClass
+check_free_after_iterating
+TESTFN
+have_unicode
+run_unittest
+unittest

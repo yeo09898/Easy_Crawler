@@ -1,0 +1,15 @@
+touch
+test_main
+os
+LongReprTest
+r
+ClassWithFailingRepr
+check_py3k_warnings
+run_unittest
+shutil
+ReprTests
+ClassWithRepr
+nestedTuple
+Repr
+sys
+unittest

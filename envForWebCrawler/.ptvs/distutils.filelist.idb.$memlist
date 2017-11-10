@@ -1,0 +1,12 @@
+findall
+log
+os
+convert_path
+DistutilsInternalError
+DistutilsTemplateError
+translate_pattern
+glob_to_re
+__revision__
+FileList
+re
+fnmatch

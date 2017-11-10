@@ -1,0 +1,13 @@
+_sanitize_restructured_text
+_dedent_docstring
+inject_docstring_text
+pending_deprecation
+_decorate_with_warning
+warnings
+exc
+deprecated
+decorator
+textwrap
+warn_pending_deprecation
+re
+warn_deprecated

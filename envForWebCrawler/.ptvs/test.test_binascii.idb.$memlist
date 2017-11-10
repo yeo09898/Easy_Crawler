@@ -1,0 +1,12 @@
+array
+MemoryviewBinASCIITest
+binascii
+test_support
+BinASCIITest
+b2a_functions
+a2b_functions
+all_functions
+test_main
+BytearrayBinASCIITest
+ArrayBinASCIITest
+unittest

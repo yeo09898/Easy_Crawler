@@ -1,0 +1,6 @@
+_initializeTkVariantTests
+unittest
+requires
+Tk
+ConfigDialog
+ConfigDialogTest

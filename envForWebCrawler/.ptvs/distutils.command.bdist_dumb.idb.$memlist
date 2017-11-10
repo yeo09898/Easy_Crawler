@@ -1,0 +1,10 @@
+ensure_relative
+bdist_dumb
+log
+os
+DistutilsPlatformError
+Command
+get_python_version
+__revision__
+remove_tree
+get_platform

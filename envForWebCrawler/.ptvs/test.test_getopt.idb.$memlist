@@ -1,0 +1,9 @@
+run_doctest
+test_main
+GetoptTests
+run_unittest
+sentinel
+getopt
+EnvironmentVarGuard
+verbose
+unittest

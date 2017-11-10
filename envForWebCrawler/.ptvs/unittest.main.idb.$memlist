@@ -1,0 +1,14 @@
+TestProgram
+main
+USAGE_FROM_MODULE
+os
+loader
+types
+CATCHBREAK
+installHandler
+runner
+USAGE_AS_MAIN
+BUFFEROUTPUT
+FAILFAST
+sys
+__unittest

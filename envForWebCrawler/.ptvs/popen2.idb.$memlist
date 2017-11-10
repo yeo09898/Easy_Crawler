@@ -1,0 +1,12 @@
+popen2
+os
+__all__
+Popen4
+sys
+warnings
+MAXFD
+popen3
+_cleanup
+Popen3
+_active
+popen4

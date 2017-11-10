@@ -1,0 +1,17 @@
+sys
+warn
+_get_gid
+spawn
+make_archive
+os
+getpwnam
+make_tarball
+ARCHIVE_FORMATS
+make_zipfile
+mkpath
+_get_uid
+log
+__revision__
+DistutilsExecError
+check_archive_formats
+getgrnam

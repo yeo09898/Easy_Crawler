@@ -1,0 +1,12 @@
+PkgutilPEP302Tests
+imp
+zipfile
+os
+tempfile
+run_unittest
+shutil
+PkgutilTests
+pkgutil
+test_main
+sys
+unittest

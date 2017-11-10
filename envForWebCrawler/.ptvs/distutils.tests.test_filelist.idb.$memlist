@@ -1,0 +1,16 @@
+DistutilsTemplateError
+FileListTestCase
+FileList
+test_suite
+MANIFEST_IN
+re
+os
+captured_stdout
+run_unittest
+support
+WARN
+glob_to_re
+make_local_path
+debug
+translate_pattern
+unittest

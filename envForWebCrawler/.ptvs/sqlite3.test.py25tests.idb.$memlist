@@ -1,0 +1,8 @@
+did_rollback
+suite
+sqlite
+test
+ContextTests
+with_statement
+MyConnection
+unittest

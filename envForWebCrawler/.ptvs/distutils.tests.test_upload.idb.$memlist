@@ -1,0 +1,14 @@
+upload
+PYPIRC_NOPASSWORD
+upload_mod
+Distribution
+DistutilsError
+FakeOpen
+PyPIRCCommandTestCase
+run_unittest
+PYPIRC
+uploadTestCase
+os
+test_suite
+PYPIRC_LONG_PASSWORD
+unittest

@@ -1,0 +1,12 @@
+CompileTestCase
+test_main
+struct
+ParserStackLimitTestCase
+STObjectTestCase
+parser
+support
+RoundtripLegalSyntaxTestCase
+assert_python_failure
+IllegalSyntaxTestCase
+sys
+unittest

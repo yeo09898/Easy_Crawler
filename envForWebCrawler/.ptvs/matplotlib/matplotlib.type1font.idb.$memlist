@@ -1,0 +1,15 @@
+itertools
+unichr
+six
+struct
+absolute_import
+unicode_literals
+sys
+np
+division
+Type1Font
+print_function
+binascii
+io
+re
+ord

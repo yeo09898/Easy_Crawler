@@ -1,0 +1,17 @@
+sysconfig
+CompileError
+BuildExtTestCase
+test_suite
+textwrap
+os
+StringIO
+unittest
+support
+sys
+Distribution
+test_support
+build_ext
+ALREADY_TESTED
+DistutilsPlatformError
+Extension
+DistutilsSetupError

@@ -1,0 +1,11 @@
+shiftjis_commonenctests
+eucjp_commontests
+Test_SJISX0213
+test_support
+Test_SJIS_COMPAT
+test_main
+Test_EUC_JISX0213
+Test_CP932
+Test_EUC_JP_COMPAT
+test_multibytecodec_support
+unittest

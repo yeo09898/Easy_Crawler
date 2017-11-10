@@ -1,0 +1,16 @@
+ascii
+initscr
+__revision__
+setupterm
+panel
+has_key
+COLORS
+start_color
+hasattr
+_sys
+_os
+wrapper
+COLOR_PAIRS
+setattr
+NameError
+textpad

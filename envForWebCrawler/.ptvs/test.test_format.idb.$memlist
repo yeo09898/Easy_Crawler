@@ -1,0 +1,11 @@
+testformat
+test_main
+testboth
+test_support
+sys
+TestFailed
+FormatTest
+maxsize
+have_unicode
+verbose
+unittest

@@ -1,0 +1,15 @@
+np
+SubplotSpec
+unicode_literals
+copy
+matplotlib
+six
+rcParams
+absolute_import
+GridSpec
+GridSpecFromSubplotSpec
+print_function
+division
+warnings
+mtransforms
+GridSpecBase

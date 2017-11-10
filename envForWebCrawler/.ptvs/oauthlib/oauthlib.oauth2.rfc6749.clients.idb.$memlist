@@ -1,0 +1,17 @@
+base
+MobileApplicationClient
+Client
+mobile_application
+AUTH_HEADER
+backend_application
+web_application
+BackendApplicationClient
+URI_QUERY
+absolute_import
+unicode_literals
+BODY
+service_application
+ServiceApplicationClient
+WebApplicationClient
+LegacyApplicationClient
+legacy_application

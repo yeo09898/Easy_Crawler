@@ -1,0 +1,10 @@
+abstractmethod
+__all__
+Real
+Number
+division
+Integral
+Rational
+Complex
+ABCMeta
+abstractproperty

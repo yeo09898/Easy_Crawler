@@ -1,0 +1,16 @@
+print_function
+CO_FUTURE_ABSOLUTE_IMPORT
+f
+CO_FUTURE_PRINT_FUNCTION
+CO_FUTURE_UNICODE_LITERALS
+CO_FUTURE_DIVISION
+CO_FUTURE_WITH_STATEMENT
+CO_GENERATOR_ALLOWED
+all_feature_names
+absolute_import
+unicode_literals
+with_statement
+division
+nested_scopes
+CO_NESTED
+generators

@@ -1,0 +1,8 @@
+INT_MAX
+test_main
+test_support
+UnicodeNamesTest
+UINT_MAX
+PY_SSIZE_T_MAX
+sys
+unittest

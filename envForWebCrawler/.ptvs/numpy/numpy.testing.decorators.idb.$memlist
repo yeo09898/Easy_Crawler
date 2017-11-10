@@ -1,0 +1,11 @@
+collections
+assert_warns
+setastest
+absolute_import
+knownfailureif
+slow
+division
+SkipTest
+print_function
+skipif
+deprecated

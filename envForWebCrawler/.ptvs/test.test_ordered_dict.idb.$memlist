@@ -1,0 +1,13 @@
+MyOrderedDict
+copy
+pickle
+shuffle
+MutableMapping
+test_support
+SubclassMappingTests
+GeneralMappingTests
+TestOrderedDict
+mapping_tests
+test_main
+OrderedDict
+unittest

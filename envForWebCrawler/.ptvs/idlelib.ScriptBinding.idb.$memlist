@@ -1,0 +1,12 @@
+IDENTCHARS
+idleConf
+PyShell
+macosxSupport
+tabnanny
+ScriptBinding
+tokenize
+string
+os
+indent_message
+re
+tkMessageBox

@@ -1,0 +1,11 @@
+UnicodeSubclass
+UnicodeTest
+struct
+test_support
+unittest
+codecs
+search_function
+requires_wide_build
+test_main
+sys
+string_tests

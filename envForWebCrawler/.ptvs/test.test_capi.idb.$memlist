@@ -1,0 +1,13 @@
+thread
+support
+CAPITest
+_testcapi
+time
+threading
+TestThreadState
+with_statement
+TestPendingCalls
+random
+test_main
+sys
+unittest

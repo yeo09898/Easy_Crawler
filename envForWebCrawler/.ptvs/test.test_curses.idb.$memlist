@@ -1,0 +1,14 @@
+test_main
+os
+requires_curses_func
+sys
+import_module
+term
+run_unittest
+curses
+TestAscii
+TestCurses
+tempfile
+requires
+verbose
+unittest

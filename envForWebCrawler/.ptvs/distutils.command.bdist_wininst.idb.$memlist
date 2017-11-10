@@ -1,0 +1,12 @@
+string
+DistutilsOptionError
+os
+DistutilsPlatformError
+Command
+log
+get_python_version
+__revision__
+remove_tree
+bdist_wininst
+sys
+get_platform

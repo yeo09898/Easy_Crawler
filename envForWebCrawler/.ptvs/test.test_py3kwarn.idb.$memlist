@@ -1,0 +1,14 @@
+TestStdlibRemovals
+reset_module_registry
+warnings
+test_support
+check_py3k_warnings
+run_unittest
+_registry
+past_warnings
+TestPy3KWarnings
+test_main
+check_deprecated_module
+CleanImport
+sys
+unittest

@@ -1,0 +1,7 @@
+Test_EUCKR
+test_support
+Test_CP949
+test_main
+Test_JOHAB
+test_multibytecodec_support
+unittest

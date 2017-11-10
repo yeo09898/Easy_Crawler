@@ -1,0 +1,12 @@
+os
+SysconfigTestCase
+sysconfig
+unittest
+subprocess
+shutil
+support
+textwrap
+TESTFN
+test_suite
+sys
+test

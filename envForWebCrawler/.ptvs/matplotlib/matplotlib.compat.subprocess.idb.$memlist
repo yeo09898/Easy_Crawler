@@ -1,0 +1,11 @@
+Popen
+os
+absolute_import
+CalledProcessError
+subprocess
+print_function
+check_output
+__all__
+STDOUT
+sys
+PIPE

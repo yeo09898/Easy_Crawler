@@ -1,0 +1,11 @@
+cStringIO
+test_main
+withpythonimplementation
+test_support
+subprocess
+ENCSAMPLE
+quopri
+QuopriTestCase
+DECSAMPLE
+sys
+unittest

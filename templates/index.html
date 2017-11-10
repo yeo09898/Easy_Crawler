@@ -1,0 +1,118 @@
+﻿{% extends "layouts/layout1.html" %}
+{% block title %}
+    Twitter Crawler
+{% endblock %}
+
+{% block content %}
+ <!-- Header -->
+<header class="masthead">
+    <div class="container">
+        <img class="img-fluid" src="static/img/crawler.png" alt="">
+        <div class="intro-text">
+            <span class="name">Start Crawler</span>
+            <hr class="star-light">
+            <form method="post" action="/post_tags">
+                <div class="form-group tags-label-form-group controls">
+                    <label>Tags</label>
+                    <input class="form-control" id="tags" name="tags" type="text" placeholder="     Tags (Seprated by ' , ')" required data-validation-required-message="Please enter Tags.">
+                    <p class="help-block text-danger"></p>
+                </div>
+                <div class="form-group tags-label-form-group controls">
+                    <label>Time</label>
+                    <input class="form-control" id="time" name="time" type="text" placeholder="     Time in Second" required data-validation-required-message="Please enter the time.">
+                    <p class="help-block text-danger"></p>
+                </div>
+                <div class="col-lg-8 mx-auto text-center">
+                    <input type="submit" href="#" class="btn btn-lg btn-submit" value="Start ">
+                </div>
+            </form>
+            <h1></h1>
+            <span class="skills">Fast - Convinent - Simple</span>
+        </div>
+    </div>
+</header>
+<!-- Portfolio Grid Section -->
+<section id="portfolio">
+    <div class="container">
+        <h2 class="text-center">Result</h2>
+        <hr class="star-primary">
+        <div class="row">
+            <div class="col-sm-4 portfolio-item">
+                <a class="portfolio-link" href="#portfolioModal1" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="static/img/portfolio/cabin.png" alt="">
+                </a>
+            </div>
+            <div class="col-sm-4 portfolio-item">
+                <a class="portfolio-link" href="#portfolioModal2" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="static/img/portfolio/cake.png" alt="">
+                </a>
+            </div>
+            <div class="col-sm-4 portfolio-item">
+                <a class="portfolio-link" href="#portfolioModal3" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="static/img/portfolio/circus.png" alt="">
+                </a>
+            </div>
+            <div class="col-sm-4 portfolio-item">
+                <a class="portfolio-link" href="#portfolioModal4" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="static/img/portfolio/game.png" alt="">
+                </a>
+            </div>
+            <div class="col-sm-4 portfolio-item">
+                <a class="portfolio-link" href="#portfolioModal5" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="static/img/portfolio/safe.png" alt="">
+                </a>
+            </div>
+            <div class="col-sm-4 portfolio-item">
+                <a class="portfolio-link" href="#portfolioModal6" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <i class="fa fa-search-plus fa-3x"></i>
+                        </div>
+                    </div>
+                    <img class="img-fluid" src="static/img/portfolio/submarine.png" alt="">
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- About Section -->
+<section class="success" id="about">
+    <div class="container">
+        <h2 class="text-center">About</h2>
+        <hr class="star-light">
+        <div class="row">
+            <div class="col-lg-4 ml-auto">
+                <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+            </div>
+            <div class="col-lg-4 mr-auto">
+                <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+            </div>
+        </div>
+    </div>
+</section>
+{% endblock %}

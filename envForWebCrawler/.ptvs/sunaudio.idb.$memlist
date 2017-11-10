@@ -1,0 +1,6 @@
+get_long_be
+gethdr
+MAGIC
+printhdr
+warnpy3k
+error

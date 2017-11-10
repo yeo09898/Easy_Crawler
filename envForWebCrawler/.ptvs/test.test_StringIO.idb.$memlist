@@ -1,0 +1,15 @@
+TestMemoryviewcStringIO
+array
+cStringIO
+buffer
+types
+test_support
+TestBuffercStringIO
+TestStringIO
+TestGenericStringIO
+StringIO
+test_main
+TestBufferStringIO
+TestcStringIO
+sys
+unittest

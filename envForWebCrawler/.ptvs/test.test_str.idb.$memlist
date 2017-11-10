@@ -1,0 +1,8 @@
+struct
+test_support
+unittest
+StrSubclass
+test_main
+StrTest
+sys
+string_tests

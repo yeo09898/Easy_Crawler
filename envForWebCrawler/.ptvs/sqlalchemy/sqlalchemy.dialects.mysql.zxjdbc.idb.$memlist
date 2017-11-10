@@ -1,0 +1,11 @@
+MySQLExecutionContext_zxjdbc
+_ZxJDBCBit
+util
+sqltypes
+BIT
+ZxJDBCConnector
+dialect
+MySQLDialect
+MySQLExecutionContext
+MySQLDialect_zxjdbc
+re

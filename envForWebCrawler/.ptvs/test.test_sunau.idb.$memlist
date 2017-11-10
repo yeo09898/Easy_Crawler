@@ -1,0 +1,12 @@
+audiotests
+SunauPCM32Test
+SunauPCM16Test
+test_main
+SunauULAWTest
+SunauPCM8Test
+run_unittest
+SunauTest
+TESTFN
+sunau
+sys
+unittest

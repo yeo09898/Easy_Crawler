@@ -1,0 +1,9 @@
+HAS_DOCUTILS
+check
+DistutilsSetupError
+CheckTestCase
+test_suite
+run_unittest
+support
+textwrap
+unittest

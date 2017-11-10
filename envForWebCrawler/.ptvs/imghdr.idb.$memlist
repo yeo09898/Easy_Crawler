@@ -1,0 +1,17 @@
+test_tiff
+tests
+test_ppm
+testall
+test_rast
+test_xbm
+test_gif
+test_pgm
+test_rgb
+__all__
+test
+what
+test_exif
+test_jpeg
+test_pbm
+test_png
+test_bmp

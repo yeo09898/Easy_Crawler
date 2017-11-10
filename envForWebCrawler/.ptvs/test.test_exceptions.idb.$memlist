@@ -1,0 +1,17 @@
+sys
+TESTFN
+test_main
+ExceptionTests
+pickle
+os
+run_unittest
+captured_stderr
+TestSameStrAndUnicodeMsg
+check_warnings
+unlink
+BrokenStrException
+ExcWithOverriddenStr
+cPickle
+cpython_only
+ignore_deprecation_warnings
+unittest

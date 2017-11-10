@@ -1,0 +1,13 @@
+Node
+Name
+syms
+has_metaclass
+FixMetaclass
+find_metas
+fixup_simple_stmt
+fixup_parse_tree
+fixer_base
+fixup_indent
+token
+Leaf
+remove_trailing_newline

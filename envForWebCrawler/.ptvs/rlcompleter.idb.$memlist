@@ -1,0 +1,6 @@
+__builtin__
+readline
+get_class_members
+__all__
+__main__
+Completer

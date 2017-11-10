@@ -1,0 +1,9 @@
+TestSJISCOMPATMap
+TestCP932Map
+TestEUCJPCOMPATMap
+test_support
+TestEUCJISX0213Map
+TestSJISX0213Map
+test_main
+test_multibytecodec_support
+unittest

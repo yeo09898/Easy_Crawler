@@ -1,0 +1,17 @@
+_DeferredMapperConfig
+ForeignKeyConstraint
+interfaces
+generate_relationship
+_declarative_base
+and_
+util
+_m2m_relationship
+automap_base
+name_for_scalar_relationship
+name_for_collection_relationship
+backref
+relationship
+_is_many_to_many
+classname_for_table
+AutomapBase
+_relationships_for_fks

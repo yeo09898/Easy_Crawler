@@ -1,0 +1,7 @@
+PY2
+itervalues
+xrange
+iteritems
+string_types
+sys
+to_str

@@ -1,0 +1,16 @@
+sys
+test_support
+KDFTests
+unhexlify
+_4G
+itertools
+unittest
+precisionbigmemtest
+array
+test_main
+hexstr
+warnings
+threading
+hashlib
+HashLibTestCase
+COMPILED_WITH_PYDEBUG

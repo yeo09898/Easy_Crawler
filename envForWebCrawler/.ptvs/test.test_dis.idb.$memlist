@@ -1,0 +1,14 @@
+DisTests
+bug708901
+dis_f
+test_main
+dis_bug708901
+sys
+unittest
+run_unittest
+_BIG_LINENO_FORMAT
+StringIO
+dis_bug1333982
+bug1333982
+_f
+dis

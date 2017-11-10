@@ -1,0 +1,5 @@
+test_support
+unittest
+test_main
+Test_Big5HKSCS
+test_multibytecodec_support

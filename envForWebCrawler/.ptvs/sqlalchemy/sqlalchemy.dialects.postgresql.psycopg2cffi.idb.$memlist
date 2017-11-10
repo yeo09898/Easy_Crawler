@@ -1,0 +1,3 @@
+PGDialect_psycopg2
+PGDialect_psycopg2cffi
+dialect

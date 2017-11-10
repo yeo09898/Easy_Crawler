@@ -1,0 +1,14 @@
+db
+DBShelfCursor
+absolute_import
+MutableMapping
+collections
+warnings
+w
+HIGHEST_PROTOCOL
+cPickle
+DBShelf
+open
+DBShelveError
+sys
+_dumps

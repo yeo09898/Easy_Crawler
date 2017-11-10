@@ -1,0 +1,17 @@
+sys
+TESTFN
+AudioWriteTests
+byteswap4
+pickle
+base64
+UnseekableIO
+io
+array
+AudioTestsWithSourceFile
+unlink
+findfile
+byteswap2
+byteswap3
+fromhex
+unittest
+AudioTests

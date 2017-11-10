@@ -1,0 +1,9 @@
+support
+imp
+os
+PyCompileTests
+shutil
+py_compile
+test_main
+tempfile
+unittest

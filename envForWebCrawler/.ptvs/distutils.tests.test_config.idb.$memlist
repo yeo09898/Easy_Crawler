@@ -1,0 +1,16 @@
+PyPIRCCommand
+set_threshold
+tempfile
+os
+run_unittest
+PYPIRC
+support
+PyPIRCCommandTestCase
+WANTED
+WARN
+Distribution
+test_suite
+PYPIRC_OLD
+shutil
+unittest
+sys

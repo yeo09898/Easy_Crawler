@@ -1,0 +1,17 @@
+FigureCanvasGTK3Agg
+unicode_literals
+HAS_CAIRO_CFFI
+cairo
+_BackendGTK3Cairo
+six
+transforms
+backend_agg
+absolute_import
+np
+print_function
+division
+FigureManagerGTK3Agg
+warnings
+backend_gtk3
+Figure
+_BackendGTK3

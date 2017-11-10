@@ -1,0 +1,14 @@
+shutil
+urlparse
+os
+__all__
+SimpleHTTPRequestHandler
+test
+mimetypes
+BaseHTTPServer
+posixpath
+StringIO
+cgi
+urllib
+sys
+__version__

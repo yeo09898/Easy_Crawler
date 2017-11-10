@@ -1,0 +1,10 @@
+Connection
+PipeConnection
+SemLock
+__doc__
+__file__
+__name__
+__package__
+address_of_buffer
+flags
+win32

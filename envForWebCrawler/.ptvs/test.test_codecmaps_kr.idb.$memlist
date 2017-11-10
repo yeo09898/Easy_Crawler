@@ -1,0 +1,7 @@
+test_main
+TestCP949Map
+test_support
+TestJOHABMap
+TestEUCKRMap
+test_multibytecodec_support
+unittest

@@ -1,0 +1,13 @@
+Wave_write
+_byteswap3
+_array_fmts
+struct
+open
+sys
+openfp
+Wave_read
+Chunk
+__all__
+__builtin__
+Error
+WAVE_FORMAT_PCM

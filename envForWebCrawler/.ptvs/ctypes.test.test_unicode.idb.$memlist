@@ -1,0 +1,6 @@
+need_symbol
+_ctypes_test
+unittest
+StringTestCase
+ctypes
+UnicodeTestCase

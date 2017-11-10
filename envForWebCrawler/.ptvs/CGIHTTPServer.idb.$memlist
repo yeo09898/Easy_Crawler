@@ -1,0 +1,15 @@
+copy
+select
+os
+__all__
+executable
+nobody_uid
+nobody
+_url_collapse_path
+BaseHTTPServer
+SimpleHTTPServer
+CGIHTTPRequestHandler
+test
+urllib
+sys
+__version__

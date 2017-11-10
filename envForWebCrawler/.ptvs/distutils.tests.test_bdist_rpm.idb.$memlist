@@ -1,0 +1,15 @@
+find_executable
+spawn
+SETUP_PY
+os
+Distribution
+test_suite
+tempfile
+BuildRpmTestCase
+run_unittest
+shutil
+support
+bdist_rpm
+DistutilsExecError
+sys
+unittest

@@ -1,0 +1,17 @@
+longopt_pat
+longopt_re
+neg_alias_re
+re
+__revision__
+getopt
+DistutilsGetoptError
+fancy_getopt
+WS_TRANS
+OptionDummy
+wrap_text
+longopt_xlate
+string
+DistutilsArgError
+translate_longopt
+FancyGetopt
+sys

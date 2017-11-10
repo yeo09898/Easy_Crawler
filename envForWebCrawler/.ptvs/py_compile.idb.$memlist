@@ -1,0 +1,12 @@
+PyCompileError
+imp
+os
+__builtin__
+traceback
+MAGIC
+compile
+__all__
+marshal
+main
+sys
+wr_long

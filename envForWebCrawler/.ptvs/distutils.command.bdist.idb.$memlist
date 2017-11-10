@@ -1,0 +1,8 @@
+__revision__
+os
+show_formats
+DistutilsPlatformError
+Command
+bdist
+DistutilsOptionError
+get_platform

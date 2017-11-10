@@ -1,0 +1,11 @@
+UnicodeFunctionsTest
+encoding
+UnicodeMethodsTest
+UnicodeDatabaseTest
+hashlib
+unittest
+subprocess
+UnicodeMiscTest
+test_main
+sys
+test

@@ -1,0 +1,15 @@
+shelve
+TestAsciiMemShelve
+TestBinaryFileShelve
+os
+glob
+TestCase
+test_support
+TestProto2MemShelve
+test_main
+TestProto2FileShelve
+mapping_tests
+TestAsciiFileShelve
+TestShelveBase
+TestBinaryMemShelve
+unittest

@@ -1,0 +1,13 @@
+PyOS_ascii_formatd
+check_warnings
+test_main
+FormatDeprecationTests
+c_double
+import_module
+run_unittest
+create_string_buffer
+FormatTests
+pythonapi
+sizeof
+byref
+unittest

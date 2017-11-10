@@ -1,0 +1,9 @@
+firebird
+oracle
+sqlite
+mssql
+postgresql
+__all__
+mysql
+sybase
+postgres

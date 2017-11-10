@@ -1,0 +1,11 @@
+InstancemethodAttrTest
+ArbitraryFunctionAttrTest
+test_main
+types
+test_support
+FunctionDocstringTest
+FuncAttrsTest
+FunctionDictsTest
+StaticMethodAttrsTest
+FunctionPropertiesTest
+unittest

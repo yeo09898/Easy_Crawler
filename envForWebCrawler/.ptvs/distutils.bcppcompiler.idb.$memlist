@@ -1,0 +1,13 @@
+newer
+log
+gen_preprocess_options
+os
+LibError
+UnknownFileError
+DistutilsExecError
+CCompiler
+write_file
+__revision__
+LinkError
+CompileError
+BCPPCompiler

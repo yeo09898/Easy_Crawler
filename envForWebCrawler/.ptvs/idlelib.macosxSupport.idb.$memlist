@@ -1,0 +1,17 @@
+sys
+hideTkConsole
+path
+tkVersionWarning
+Tkinter
+_initializeTkVariantTests
+setupApp
+addOpenEventSupport
+overrideRootMenu
+_tk_type
+warnings
+isXQuartz
+isCarbonTk
+isCocoaTk
+runningAsOSXApp
+isCarbonAquaTk
+isAquaTk

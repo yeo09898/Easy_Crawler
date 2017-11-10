@@ -1,0 +1,17 @@
+map
+BOTTOM
+_multistatus_bar
+Frame
+re
+list
+MultiStatusBar
+Button
+W
+Tk
+LEFT
+Text
+int
+__name__
+Label
+X
+run

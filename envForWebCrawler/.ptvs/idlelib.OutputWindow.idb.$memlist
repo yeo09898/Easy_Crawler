@@ -1,0 +1,14 @@
+EditorWindow
+OutputWindow
+isinstance
+int
+open
+re
+IOBinding
+str
+UnicodeError
+TypeError
+IOError
+unicode
+tkMessageBox
+OnDemandOutputWindow

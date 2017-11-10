@@ -1,0 +1,10 @@
+is_jython
+cStringIO
+unify_callables
+compile_command
+run_unittest
+PyCF_DONT_IMPLY_DEDENT
+CodeopTests
+test_main
+sys
+unittest

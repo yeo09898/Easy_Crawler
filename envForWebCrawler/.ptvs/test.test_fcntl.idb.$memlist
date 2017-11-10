@@ -1,0 +1,16 @@
+sys
+TESTFN
+BadFile
+unlink
+verbose
+fcntl
+os
+run_unittest
+lockdata
+test_main
+TestFcntl
+import_module
+struct
+cpython_only
+get_lockdata
+unittest

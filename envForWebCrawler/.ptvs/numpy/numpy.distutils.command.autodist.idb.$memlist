@@ -1,0 +1,8 @@
+check_compiler_gcc4
+check_restrict
+check_gcc_function_attribute
+absolute_import
+division
+print_function
+check_inline
+check_gcc_variable_attribute
