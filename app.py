@@ -18,7 +18,9 @@ def index():
 
 @app.route('/result/<tags>+<time>')
 def result(tags,time):
-    return render_template('result.html', tags=tags, time=time)
+    requested_tags.tags = tags
+    requested_tags.time = time
+    return render_template('result.html', tags=requested_tags.tags, time=requested_tags.time)
 
 @app.route('/post_tags', methods=['POST'])
 def post_tags():
