@@ -1,4 +1,4 @@
-from flask import Flask, request, redirect, url_for, render_template ,send_file, send_from_directory
+from flask import Flask, request, redirect, url_for, render_template ,send_file, send_from_directory, session, make_response
 import os
 import cralwer
 #from flask_sqlalchemy import SQLAlchemy
@@ -6,7 +6,8 @@ import cralwer
 app = Flask(__name__)
 #app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:shuzi@localhost/Web_Crawler'
 app.debug = True
-#db = SQLAlchemy(app) 
+#db = SQLAlchemy(app)
+#SESSION_TYPE = 'redis'
 
 class requested_tags():
     tags = ""
@@ -26,9 +27,20 @@ def result(tags,time):
 def post_tags():
     requested_tags.tags = request.form['tags']
     requested_tags.time = int(request.form['time'])
-    print requested_tags.tags
+#    print requested_tags.tags
+#    print requested_tags.time
+    session['time'] = requested_tags.time
+    print session['time']
     cralwer.get_data(requested_tags.tags,requested_tags.time)
+    session['time'] = 0
     return render_template('result.html', tags=requested_tags.tags, time=requested_tags.time)
+
+@app.route('/get_time')
+def get_time():
+    resp = make_response()
+    resp.timing = session.get('time', 0)
+    resp.status = 'ok'
+    return resp
 
 @app.route("/download/")
 def download_file():
@@ -37,4 +49,6 @@ def download_file():
 
 
 if __name__ == "__main__":
+    app.secret_key = 'super secret key'
+    app.config['SESSION_TYPE'] = 'redis'
     app.run()
