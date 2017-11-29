@@ -87,8 +87,18 @@ def get_data(tags,time):
     tweets=json.load(open("doc/Assignment.json",'r'))
     print("number of tweets:", len(tweets))
     
+    # record the errors
+    errorLog = list()
     for tweet in tweets:
-        all_tweets.append( (tweet["created_at"].encode("utf-8"), tweet["text"].encode("utf-8") ))
+        try:
+            all_tweets.append( (tweet["created_at"].encode("utf-8"), tweet["text"].encode("utf-8") ))
+        except KeyError:
+            errorLog.append(tweet)
+
+    with open("doc/errorLog.txt", 'w') as f:
+        errorLog = str(errorLog)
+        f.write(errorLog)
+        f.close()
 
     with open('doc/result.csv','w') as f:
         f_csv = csv.writer(f)

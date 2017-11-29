@@ -5,17 +5,25 @@ Twitter Crawler
 {% block head %}
 <script type="text/javascript" src="/vender/jquery.js"></script>
 <script language="javascript">
+    
+    var wait = 0;
+    var m = parseInt($("#time").val());
+    
     function checkClick(a){
         ajax_post();
         
         var timing = 0;
         
+        m = $("#time").val();
         time(a);
+        
     }
 
-var wait = 0;
-var m = parseInt($("#time").val());
-function time(o, minute) {
+
+
+function time(o) {
+    
+    
     o.setAttribute("disabled", true);
     o.value = "Get result in(" + m + "m" + wait + "s)";
     if (wait == 0) {
