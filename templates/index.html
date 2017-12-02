@@ -11,36 +11,34 @@ Twitter Crawler
     
     function checkClick(a){
         ajax_post();
-        
-        var timing = 0;
-        
         m = $("#time").val();
-        time(a);
-        
+        time(a);    
     }
 
-
-
-function time(o) {
-    
-    
-    o.setAttribute("disabled", true);
-    o.value = "Get result in(" + m + "m" + wait + "s)";
-    if (wait == 0) {
-        wait = 60;
-        m--;
+    function time(o) {
+        if (wait == 0 && m == 0) {
+            o.removeAttribute("disabled");
+            o.value = "Start";
+            wait = 0;
+        } else {
+            o.setAttribute("disabled", true);
+            o.value = "Get result in(" + m + "m" + wait + "s)";
+            if (wait == 0) {
+                wait = 60;
+                m--;
+            }
+            wait--;
+            setTimeout(function () {
+                time(o)
+            },
+                1000)
+        }
     }
-    wait--;
-    setTimeout(function () {
-               time(o)
-               },
-               1000)
-}
-function ajax_post(){
-    $.post("/post_tags", { tags: $('#tags').val(), time: $('#time').val() }, function (data) {
-           $('#page').html(data);
-           },"html");
-}
+    function ajax_post(){
+        $.post("/post_tags", { tags: $('#tags').val(), time: $('#time').val() }, function (data) {
+            $('#page').html(data);
+            },"html");
+    }
 
     </script>
 {% endblock %}
