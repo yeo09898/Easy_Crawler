@@ -35,7 +35,7 @@ Twitter Crawler
         }
     }
     function ajax_post(){
-        $.post("/post_tags", { tags: $('#tags').val(), time: $('#time').val() }, function (data) {
+        $.post("/post_tags", { tags: $('#tags').val(), time: $('#time').val(), selection: $('#selection').val() }, function (data) {
             $('#page').html(data);
             },"html");
     }
@@ -50,6 +50,15 @@ Twitter Crawler
             <div class="intro-text">
                 <span class="name">Start Crawler</span>
                 <hr class="star-light">
+                <div class="form-group tags-label-form-group controls">
+                    <select class="custom-select" required id="selection" name="selection" >
+                        <option>Twitter</option>
+                        <option>Yelp</option>
+                        <option>Stack Overflow</option>
+                    </select>
+
+                        <p class="help-block text-danger"></p>
+                        </div>
                 <div class="form-group tags-label-form-group controls">
                     <label>Tags</label>
                     <input class="form-control" id="tags" name="tags" type="text" placeholder="     Tags (Seprated by ' , ')" required data-validation-required-message="Please enter Tags.">
