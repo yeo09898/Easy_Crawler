@@ -80,11 +80,12 @@ def run_search(url, time_limit):
                 source = getLink(link)
                 title = getTitle(link)
                 category = get_category(restaurant)
+                rating = get_rating(restaurant)
 
                 if source == 'NA':
                     continue
-                fw.write(title + "\n" + category + "\n" + source + "\n")
-                csv_lst.append((title, category, source))
+                fw.write(title + "\n" + category + "\n" + rating + "\n" + source + "\n")
+                csv_lst.append((title, category, rating, source))
 
                 time.sleep(0.1)
 
@@ -107,9 +108,9 @@ def get_category(tag):
 
 
 def write_csv(all_result):
-    with open('doc/result.csv', 'w') as f:
+    with open('doc/result.csv', 'w+') as f:
         f_csv = csv.writer(f)
-        f_csv.writerow(("Title", "Category", "Link"))
+        f_csv.writerow(("Title", "Category", "Rating", "Link"))
         for i in all_result:
             f_csv.writerow(i)
         f.close()
