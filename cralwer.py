@@ -71,7 +71,8 @@ def get_data(tags, time):
     # start a staeam instance using authentication and the listener
     twitter_stream = Stream(auth, tweet_listener)
     # filtering tweets by topics
-    twitter_stream.filter(track=[tags])
+    print tags.split(",")
+    twitter_stream.filter(track=tags.split(","))
 
     tweets = []
     with open("doc/python.txt", 'r') as f:
