@@ -106,7 +106,7 @@ def get_data(tags, time):
         f.write(errorLog)
         f.close()
 
-    with open('doc/result.csv', 'w') as f:
+    with open('doc/'+tags+str(time)+'.csv', 'w') as f:
         f_csv = csv.writer(f)
         for i in all_tweets:
             f_csv.writerow(i)

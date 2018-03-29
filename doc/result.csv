@@ -1,186 +1,161 @@
-Title,Category,Rating,Link
-Benemon,Tapas/Small Plates,4.5 star rating,https://www.yelp.com/biz/benemon-new-york
-Sakagura,Japanese,4.0 star rating,https://www.yelp.com/biz/sakagura-new-york
-Raku,Noodles,4.5 star rating,https://www.yelp.com/biz/raku-new-york-4
-Izakaya MEW,Cocktail Bars,4.0 star rating,https://www.yelp.com/biz/izakaya-mew-new-york-3
-Aburiya Kinnosuke,Izakaya,4.0 star rating,https://www.yelp.com/biz/aburiya-kinnosuke-new-york
-Izakaya,Tapas/Small Plates,4.0 star rating,https://www.yelp.com/biz/izakaya-new-york-2
-Okonomi,Seafood,4.5 star rating,https://www.yelp.com/biz/okonomi-brooklyn
-Ootoya Chelsea,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/ootoya-chelsea-new-york
-Sake Bar Hagi,Japanese,4.0 star rating,https://www.yelp.com/biz/sake-bar-hagi-new-york
-Ootoya Times Square,Japanese,4.0 star rating,https://www.yelp.com/biz/ootoya-times-square-new-york-2
-Yopparai,Japanese,4.5 star rating,https://www.yelp.com/biz/yopparai-new-york
-DOMODOMO,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/domodomo-new-york
-Izakaya NoMad,Bars,4.0 star rating,https://www.yelp.com/biz/izakaya-nomad-new-york
-Yakitori Totto,Japanese,4.0 star rating,https://www.yelp.com/biz/yakitori-totto-new-york
-Izakaya ida,Izakaya,4.0 star rating,https://www.yelp.com/biz/izakaya-ida-new-york-5
-Sushi Yasaka,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-yasaka-new-york
-Zenkichi,Japanese,4.0 star rating,https://www.yelp.com/biz/zenkichi-brooklyn
-Soba Totto,Japanese,4.0 star rating,https://www.yelp.com/biz/soba-totto-new-york
-Hakata Tonton,Japanese,4.0 star rating,https://www.yelp.com/biz/hakata-tonton-new-york-3
-Fukurou,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/fukurou-new-york
-Sushi Yasaka,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-yasaka-new-york
-Rabbit House,Tapas Bars,4.5 star rating,https://www.yelp.com/biz/rabbit-house-new-york
-Syo Japanese Restaurant,Japanese,4.5 star rating,https://www.yelp.com/biz/syo-japanese-restaurant-astoria
-Bozu,Asian Fusion,4.0 star rating,https://www.yelp.com/biz/bozu-brooklyn
-Hibino,Japanese,4.0 star rating,https://www.yelp.com/biz/hibino-long-island-city
-Ise Restaurant,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/ise-restaurant-new-york-3
-EN Japanese Brasserie,Bars,4.0 star rating,https://www.yelp.com/biz/en-japanese-brasserie-new-york
-Cocoron,Soup,4.0 star rating,https://www.yelp.com/biz/cocoron-new-york-2
-Karasu,Cocktail Bars,4.0 star rating,https://www.yelp.com/biz/karasu-brooklyn-2
-U-gu,Japanese,4.5 star rating,https://www.yelp.com/biz/u-gu-brooklyn-2
-Hi-Collar,Bars,4.0 star rating,https://www.yelp.com/biz/hi-collar-new-york-2
-Bohemian Restaurant,French,4.5 star rating,https://www.yelp.com/biz/bohemian-restaurant-new-york
-Yopparai,Japanese,4.5 star rating,https://www.yelp.com/biz/yopparai-new-york
-Hibino,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/hibino-brooklyn
-Ippudo East Village,Ramen,4.0 star rating,https://www.yelp.com/biz/ippudo-east-village-new-york
-Hashi Ramen & Izakaya,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/hashi-ramen-and-izakaya-flushing-4
-House of Small Wonder,Japanese,4.0 star rating,https://www.yelp.com/biz/house-of-small-wonder-brooklyn
-Umi No Ie,Japanese,4.0 star rating,https://www.yelp.com/biz/umi-no-ie-new-york-2
-Hatsuhana Sushi Restaurant,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/hatsuhana-sushi-restaurant-new-york
-Tsurutontan Udon Noodle Brasserie,Soup,4.0 star rating,https://www.yelp.com/biz/tsurutontan-udon-noodle-brasserie-new-york
-Samurai Mama,Soup,4.0 star rating,https://www.yelp.com/biz/samurai-mama-brooklyn
-Soba-ya,Noodles,4.0 star rating,https://www.yelp.com/biz/soba-ya-new-york
-Yakiniku Futago,Steakhouses,4.0 star rating,https://www.yelp.com/biz/yakiniku-futago-new-york
-Gen,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/gen-brooklyn
-Method,Japanese,4.5 star rating,https://www.yelp.com/biz/method-new-york-3
-Wasan Brooklyn,Japanese,4.0 star rating,https://www.yelp.com/biz/wasan-brooklyn-brooklyn
-Takumen,Noodles,4.0 star rating,https://www.yelp.com/biz/takumen-long-island-city-2
-Yakiniku West,Barbeque,4.0 star rating,https://www.yelp.com/biz/yakiniku-west-new-york
-Kuu Ramen,Ramen,3.5 star rating,https://www.yelp.com/biz/kuu-ramen-new-york
-Gohan,Comfort Food,4.0 star rating,https://www.yelp.com/biz/gohan-new-york
-Salt + Charcoal,Steakhouses,4.0 star rating,https://www.yelp.com/biz/salt-charcoal-brooklyn
-Hi-Collar,Bars,4.0 star rating,https://www.yelp.com/biz/hi-collar-new-york-2
-Takumen,Noodles,4.0 star rating,https://www.yelp.com/biz/takumen-long-island-city-2
-Yakitori Taisho,Comfort Food,3.5 star rating,https://www.yelp.com/biz/yakitori-taisho-new-york
-Kondo,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/kondo-astoria
-Wasan Brooklyn,Japanese,4.0 star rating,https://www.yelp.com/biz/wasan-brooklyn-brooklyn
-Takahachi Bakery,Coffee & Tea,4.0 star rating,https://www.yelp.com/biz/takahachi-bakery-new-york
-Bohemian Restaurant,French,4.5 star rating,https://www.yelp.com/biz/bohemian-restaurant-new-york
-Juku,Izakaya,4.5 star rating,https://www.yelp.com/biz/juku-new-york
-Iki Modern Japanese Cuisine,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/iki-modern-japanese-cuisine-flushing
-Sushi Katsuei,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-katsuei-brooklyn
-Ichibantei,Steakhouses,4.0 star rating,https://www.yelp.com/biz/ichibantei-new-york
-Ootoya Greenwich Village,Japanese,4.0 star rating,https://www.yelp.com/biz/ootoya-greenwich-village-new-york
-Bessou,Breakfast & Brunch,4.0 star rating,https://www.yelp.com/biz/bessou-new-york
-Shalom Japan,Japanese,4.0 star rating,https://www.yelp.com/biz/shalom-japan-brooklyn
-Iki Modern Japanese Cuisine,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/iki-modern-japanese-cuisine-flushing
-Karasu,Cocktail Bars,4.0 star rating,https://www.yelp.com/biz/karasu-brooklyn-2
-Momokawa,Tapas/Small Plates,3.5 star rating,https://www.yelp.com/biz/momokawa-new-york-3
-Ato,Japanese,4.0 star rating,https://www.yelp.com/biz/ato-new-york-7
-Ippudo Westside,Ramen,4.0 star rating,https://www.yelp.com/biz/ippudo-westside-new-york
-Nippori,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/nippori-new-york
-Bessou,Breakfast & Brunch,4.0 star rating,https://www.yelp.com/biz/bessou-new-york
-Naoki,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/naoki-new-york
-Norikoh,Asian Fusion,4.0 star rating,https://www.yelp.com/biz/norikoh-new-york
-Samurai Papa,Japanese,4.5 star rating,https://www.yelp.com/biz/samurai-papa-brooklyn-2
-Hi-Collar,Bars,4.0 star rating,https://www.yelp.com/biz/hi-collar-new-york-2
-Domo Williamsburg,Coffee & Tea,5.0 star rating,https://www.yelp.com/biz/domo-williamsburg-brooklyn-2
-Hama Japanese Cuisine,Japanese,4.0 star rating,https://www.yelp.com/biz/hama-japanese-cuisine-new-york
-Shabushabu Macoron,Hot Pot,5.0 star rating,https://www.yelp.com/biz/shabushabu-macoron-new-york
-Bohemian Restaurant,French,4.5 star rating,https://www.yelp.com/biz/bohemian-restaurant-new-york
-Momoya,Salad,4.0 star rating,https://www.yelp.com/biz/momoya-new-york
-Saikai,Tapas Bars,4.0 star rating,https://www.yelp.com/biz/saikai-new-york-2
-Fukusuke,Japanese,4.5 star rating,https://www.yelp.com/biz/fukusuke-new-york
-Donburiya,Seafood,4.0 star rating,https://www.yelp.com/biz/donburiya-new-york-2
-Yakiniku Futago,Steakhouses,4.0 star rating,https://www.yelp.com/biz/yakiniku-futago-new-york
-CHOCHIN,Japanese,4.5 star rating,https://www.yelp.com/biz/chochin-new-york-2
-Blue Ribbon Sushi,Japanese,4.0 star rating,https://www.yelp.com/biz/blue-ribbon-sushi-new-york
-The Lobster Club,Asian Fusion,4.5 star rating,https://www.yelp.com/biz/the-lobster-club-new-york-2
-Taiki,Seafood,4.5 star rating,https://www.yelp.com/biz/taiki-brooklyn
-SakaMai,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sakamai-new-york
-Village Yokocho,Izakaya,3.5 star rating,https://www.yelp.com/biz/village-yokocho-new-york
-Jukai,Japanese,4.0 star rating,https://www.yelp.com/biz/jukai-new-york
-Salt + Charcoal,Steakhouses,4.0 star rating,https://www.yelp.com/biz/salt-charcoal-brooklyn
-Restaurant Riki,Sushi Bars,3.5 star rating,https://www.yelp.com/biz/restaurant-riki-new-york
-Tomoe Sushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/tomoe-sushi-new-york
-Gaijin,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/gaijin-astoria-3
-Secchu Yokota,Seafood,5.0 star rating,https://www.yelp.com/biz/secchu-yokota-new-york
-Kuu Ramen,Ramen,3.5 star rating,https://www.yelp.com/biz/kuu-ramen-new-york
-Ki Sushi,Japanese,4.0 star rating,https://www.yelp.com/biz/ki-sushi-brooklyn
-Sunrise Mart,Japanese,4.0 star rating,https://www.yelp.com/biz/sunrise-mart-new-york-3
-Sushi Yashin,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-yashin-brooklyn
-Juban,Seafood,4.0 star rating,https://www.yelp.com/biz/juban-new-york
-Shochu & Tapas - Aya,Tapas/Small Plates,4.0 star rating,https://www.yelp.com/biz/shochu-and-tapas-aya-new-york-2
-Ikinari Steak East Village,"Beer, Wine & Spirits",4.0 star rating,https://www.yelp.com/biz/ikinari-steak-east-village-new-york
-Momosan Ramen & Sake,Ramen,4.0 star rating,https://www.yelp.com/biz/momosan-ramen-and-sake-new-york-2
-Momokawa,Tapas/Small Plates,3.5 star rating,https://www.yelp.com/biz/momokawa-new-york-3
-Ki Sushi,Japanese,4.0 star rating,https://www.yelp.com/biz/ki-sushi-brooklyn
-Okinii,Seafood,4.0 star rating,https://www.yelp.com/biz/okinii-new-york
-ROKI Le Izakaya,Ramen,4.0 star rating,https://www.yelp.com/biz/roki-le-izakaya-new-york
-Kuma NYC,Ramen,4.5 star rating,https://www.yelp.com/biz/kuma-nyc-brooklyn-2
-Kuu Ramen,Ramen,3.5 star rating,https://www.yelp.com/biz/kuu-ramen-new-york
-Zest,Thai,4.0 star rating,https://www.yelp.com/biz/zest-new-york-3
-wagamama,Ramen,3.5 star rating,https://www.yelp.com/biz/wagamama-new-york-2
-969 NYC Coffee,Salad,4.5 star rating,https://www.yelp.com/biz/969-nyc-coffee-jackson-heights-2
-Taro Sushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/taro-sushi-brooklyn
-Kobeyaki,Burgers,4.0 star rating,https://www.yelp.com/biz/kobeyaki-new-york-2
-Takahachi,Japanese,4.0 star rating,https://www.yelp.com/biz/takahachi-new-york
-Wasabi Sushi & Bento,Japanese,3.5 star rating,https://www.yelp.com/biz/wasabi-sushi-and-bento-new-york-8
-Robata,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/robata-flushing-5
-1 or 8,Bars,4.0 star rating,https://www.yelp.com/biz/1-or-8-brooklyn
-Taro Sushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/taro-sushi-brooklyn
-Momo Sushi Shack,Asian Fusion,4.0 star rating,https://www.yelp.com/biz/momo-sushi-shack-brooklyn
-Komegashi Too,Sushi Bars,3.5 star rating,https://www.yelp.com/biz/komegashi-too-jersey-city
-Totto Ramen,Ramen,4.0 star rating,https://www.yelp.com/biz/totto-ramen-new-york
-Sushi Azabu,Japanese,4.0 star rating,https://www.yelp.com/biz/sushi-azabu-new-york
-Zutto Japanese American Pub,Ramen,4.0 star rating,https://www.yelp.com/biz/zutto-japanese-american-pub-new-york-2
-Mu Ramen,Ramen,4.0 star rating,https://www.yelp.com/biz/mu-ramen-long-island-city-2
-Momoya,Salad,4.0 star rating,https://www.yelp.com/biz/momoya-new-york
-Kotobuki Manhattan,Seafood,4.0 star rating,https://www.yelp.com/biz/kotobuki-manhattan-new-york
-Goemon,Gluten-Free,4.0 star rating,https://www.yelp.com/biz/goemon-new-york
-Minca,Ramen,4.0 star rating,https://www.yelp.com/biz/minca-new-york
-Oita Sushi,Caterers,4.5 star rating,https://www.yelp.com/biz/oita-sushi-new-york
-Umi No Ie,Japanese,4.0 star rating,https://www.yelp.com/biz/umi-no-ie-new-york-2
-Ichibantei,Steakhouses,4.0 star rating,https://www.yelp.com/biz/ichibantei-new-york
-Jpan,Japanese,4.0 star rating,https://www.yelp.com/biz/jpan-brooklyn
-Zawa Japanese,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/zawa-japanese-new-york
-Ni Japanese Delicacies,Delis,4.5 star rating,https://www.yelp.com/biz/ni-japanese-delicacies-new-york
-Shuya Cafe de Ramen,Cafes,4.5 star rating,https://www.yelp.com/biz/shuya-cafe-de-ramen-astoria
-Naoki,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/naoki-new-york
-Cha-An,Tea Rooms,4.0 star rating,https://www.yelp.com/biz/cha-an-new-york
-Koko Ramen,Ramen,4.0 star rating,https://www.yelp.com/biz/koko-ramen-brooklyn
-Wasabi Sushi & Bento,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/wasabi-sushi-and-bento-new-york-4
-Honshu,Japanese,4.0 star rating,https://www.yelp.com/biz/honshu-jersey-city-4
-Nishida Sho-ten,Ramen,4.0 star rating,https://www.yelp.com/biz/nishida-sho-ten-new-york-2
-Natsumi Tapas,Tapas/Small Plates,4.0 star rating,https://www.yelp.com/biz/natsumi-tapas-new-york-2
-969 NYC Coffee,Salad,4.5 star rating,https://www.yelp.com/biz/969-nyc-coffee-jackson-heights-2
-sandobe,Karaoke,4.5 star rating,https://www.yelp.com/biz/sandobe-brooklyn
-1 or 8,Bars,4.0 star rating,https://www.yelp.com/biz/1-or-8-brooklyn
-O Ya,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/o-ya-new-york
-Sushi by Bou,Japanese,5.0 star rating,https://www.yelp.com/biz/sushi-by-bou-new-york-3
-Longevousjoy,Ramen,3.0 star rating,https://www.yelp.com/biz/longevousjoy-brooklyn
-Sake Bar By Zabb,Japanese,4.0 star rating,https://www.yelp.com/biz/sake-bar-by-zabb-jackson-heights
-Honshu,Japanese,4.0 star rating,https://www.yelp.com/biz/honshu-jersey-city-4
-Momokawa,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/momokawa-new-york-2
-SOBA AZUMA,"Beer, Wine & Spirits",4.0 star rating,https://www.yelp.com/biz/soba-azuma-new-york
-Zawa Japanese,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/zawa-japanese-new-york
-Natsumi Tapas,Tapas/Small Plates,4.0 star rating,https://www.yelp.com/biz/natsumi-tapas-new-york-2
-Menkui-Tei,Ramen,3.5 star rating,https://www.yelp.com/biz/menkui-tei-new-york-3
-Uchu,Sushi Bars,5.0 star rating,https://www.yelp.com/biz/uchu-new-york
-Okinii,Seafood,4.0 star rating,https://www.yelp.com/biz/okinii-new-york
-Sushi Factory,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-factory-brooklyn-2
-Ganso Ramen,Ramen,3.5 star rating,https://www.yelp.com/biz/ganso-ramen-brooklyn
-Kyoto,Japanese,4.0 star rating,https://www.yelp.com/biz/kyoto-brooklyn
-YUJI Ramen,Noodles,4.0 star rating,https://www.yelp.com/biz/yuji-ramen-brooklyn-3
-Watawa Sushi,Wine Bars,4.0 star rating,https://www.yelp.com/biz/watawa-sushi-astoria
-969 NYC Coffee,Salad,4.5 star rating,https://www.yelp.com/biz/969-nyc-coffee-jackson-heights-2
-Katsu-Hama,Japanese,4.0 star rating,https://www.yelp.com/biz/katsu-hama-new-york
-Sake Bar Decibel,Japanese,4.0 star rating,https://www.yelp.com/biz/sake-bar-decibel-new-york
-Umi Sushi,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/umi-sushi-fresh-meadows
-MIFUNE New York,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/mifune-new-york-new-york-2
-Momoya,Japanese,4.0 star rating,https://www.yelp.com/biz/momoya-new-york-2
-Aoyu Sushi,Salad,4.0 star rating,https://www.yelp.com/biz/aoyu-sushi-bronx
-Zutto Japanese American Pub,Ramen,4.0 star rating,https://www.yelp.com/biz/zutto-japanese-american-pub-new-york-2
-Murasaki,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/murasaki-long-island-city
-Shabushabu Macoron,Hot Pot,5.0 star rating,https://www.yelp.com/biz/shabushabu-macoron-new-york
-Suteishi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/suteishi-new-york
-Stanford East Sake Bar,Bars,4.5 star rating,https://www.yelp.com/biz/stanford-east-sake-bar-new-york-3
-Isohama,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/isohama-new-york
-Mentoku,Ramen,4.0 star rating,https://www.yelp.com/biz/mentoku-new-york
-Ajihei Bushwick,Salad,4.5 star rating,https://www.yelp.com/biz/ajihei-bushwick-brooklyn
-Yamato Restaurant,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/yamato-restaurant-brooklyn
-Asea Fusion Modern Asian Bistro,Japanese,4.0 star rating,https://www.yelp.com/biz/asea-fusion-modern-asian-bistro-brooklyn
-15 East Restaurant,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/15-east-restaurant-new-york
-Abiko Curry,Beer Bar,4.0 star rating,https://www.yelp.com/biz/abiko-curry-new-york-2
-Domo Williamsburg,Coffee & Tea,5.0 star rating,https://www.yelp.com/biz/domo-williamsburg-brooklyn-2
+Title,Category,Rating,Link
+DOMODOMO,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/domodomo-new-york
+Takahachi,Japanese,4.0 star rating,https://www.yelp.com/biz/takahachi-new-york
+Sushi Yasaka,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-yasaka-new-york
+Ki Sushi,Japanese,4.0 star rating,https://www.yelp.com/biz/ki-sushi-brooklyn
+Sushumai Asian Fusion,Dim Sum,5.0 star rating,https://www.yelp.com/biz/sushumai-asian-fusion-new-york-2
+Sushi Nakazawa,Seafood,4.5 star rating,https://www.yelp.com/biz/sushi-nakazawa-new-york
+Sushi Gallery,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/sushi-gallery-brooklyn
+KazuNori | The Original Hand Roll Bar,Japanese,4.5 star rating,https://www.yelp.com/biz/kazunori-the-original-hand-roll-bar-new-york-2
+Suteishi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/suteishi-new-york
+Bozu,Asian Fusion,4.0 star rating,https://www.yelp.com/biz/bozu-brooklyn
+Umi Sushi,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/umi-sushi-fresh-meadows
+Sushi by Bou,Japanese,5.0 star rating,https://www.yelp.com/biz/sushi-by-bou-new-york-3
+Bozu,Asian Fusion,4.0 star rating,https://www.yelp.com/biz/bozu-brooklyn
+Izakaya MEW,Cocktail Bars,4.0 star rating,https://www.yelp.com/biz/izakaya-mew-new-york-3
+Kotobuki Manhattan,Seafood,4.0 star rating,https://www.yelp.com/biz/kotobuki-manhattan-new-york
+Watawa Sushi,Wine Bars,4.0 star rating,https://www.yelp.com/biz/watawa-sushi-astoria
+Zest,Thai,4.0 star rating,https://www.yelp.com/biz/zest-new-york-3
+Sushi Yashin,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-yashin-brooklyn
+Asuka Sushi,Thai,4.0 star rating,https://www.yelp.com/biz/asuka-sushi-new-york
+Suteishi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/suteishi-new-york
+Izakaya MEW,Cocktail Bars,4.0 star rating,https://www.yelp.com/biz/izakaya-mew-new-york-3
+Akaru,Japanese,4.0 star rating,https://www.yelp.com/biz/akaru-brooklyn
+Kyoto,Japanese,4.0 star rating,https://www.yelp.com/biz/kyoto-brooklyn
+Iron Chef House,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/iron-chef-house-brooklyn
+Hibino,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/hibino-brooklyn
+U-gu,Japanese,4.5 star rating,https://www.yelp.com/biz/u-gu-brooklyn-2
+Murasaki,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/murasaki-long-island-city
+Blue Ribbon Sushi,Japanese,4.0 star rating,https://www.yelp.com/biz/blue-ribbon-sushi-new-york
+Sushi Katsuei,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-katsuei-brooklyn
+Umi Sushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/umi-sushi-new-york-2
+Oita Sushi,Caterers,4.5 star rating,https://www.yelp.com/biz/oita-sushi-new-york
+Takesushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/takesushi-sunnyside
+Gaijin,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/gaijin-astoria-3
+Kanoyama,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/kanoyama-new-york
+Ise Restaurant,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/ise-restaurant-new-york-3
+Hibino,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/hibino-brooklyn
+U-gu,Japanese,4.5 star rating,https://www.yelp.com/biz/u-gu-brooklyn-2
+Sashimi Express,Japanese,4.5 star rating,https://www.yelp.com/biz/sashimi-express-new-york
+Hibino,Japanese,4.0 star rating,https://www.yelp.com/biz/hibino-long-island-city
+Sushi Seki,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-seki-new-york-5
+Ise Restaurant,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/ise-restaurant-new-york-3
+Sushi Seki,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-seki-new-york-5
+Hibino,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/hibino-brooklyn
+Aji Sushi House,Asian Fusion,4.5 star rating,https://www.yelp.com/biz/aji-sushi-house-astoria
+Blue Ribbon Sushi Bar & Grill - New York,Cocktail Bars,4.0 star rating,https://www.yelp.com/biz/blue-ribbon-sushi-bar-and-grill-new-york-new-york
+Hama Japanese Cuisine,Japanese,4.0 star rating,https://www.yelp.com/biz/hama-japanese-cuisine-new-york
+Sushi Para 88,Japanese,3.5 star rating,https://www.yelp.com/biz/sushi-para-88-new-york
+Union Sushi,Japanese,4.5 star rating,https://www.yelp.com/biz/union-sushi-flushing
+Natsumi,Lounges,4.0 star rating,https://www.yelp.com/biz/natsumi-new-york-3
+Tanoshi Sushi Sake Bar,Seafood,4.5 star rating,https://www.yelp.com/biz/tanoshi-sushi-sake-bar-new-york
+Ako,Wine Bars,4.0 star rating,https://www.yelp.com/biz/ako-brooklyn-3
+Nare Sushi,Japanese,4.0 star rating,https://www.yelp.com/biz/nare-sushi-new-york
+Iron Chef House,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/iron-chef-house-brooklyn
+Wasabi Sushi & Bento,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/wasabi-sushi-and-bento-new-york-4
+Yoi sushi,Japanese,4.5 star rating,https://www.yelp.com/biz/yoi-sushi-flushing-3
+Momoya,Salad,4.0 star rating,https://www.yelp.com/biz/momoya-new-york
+Morimoto,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/morimoto-new-york
+New Mizu Sushi,Japanese,4.5 star rating,https://www.yelp.com/biz/new-mizu-sushi-new-york
+Sushi Lin,Salad,5.0 star rating,https://www.yelp.com/biz/sushi-lin-brooklyn-2
+1 or 8,Bars,4.0 star rating,https://www.yelp.com/biz/1-or-8-brooklyn
+Beyond Sushi - Union Square,Kosher,4.5 star rating,https://www.yelp.com/biz/beyond-sushi-union-square-new-york-5
+Geido,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/geido-brooklyn
+SUGARFISH by sushi nozawa,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sugarfish-by-sushi-nozawa-new-york
+Blue Ribbon Sushi Izakaya,Cocktail Bars,4.0 star rating,https://www.yelp.com/biz/blue-ribbon-sushi-izakaya-new-york
+Zawa Japanese,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/zawa-japanese-new-york
+Gen,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/gen-brooklyn
+Sushi Kaito,Japanese,4.5 star rating,https://www.yelp.com/biz/sushi-kaito-new-york
+Beyond Sushi,Kosher,4.5 star rating,https://www.yelp.com/biz/beyond-sushi-new-york-4
+Yamato Restaurant,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/yamato-restaurant-brooklyn
+TJ Asian Bistro,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/tj-asian-bistro-woodside
+Geido,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/geido-brooklyn
+Beyond Sushi,Kosher,4.5 star rating,https://www.yelp.com/biz/beyond-sushi-new-york-4
+New Ichiro,Salad,4.0 star rating,https://www.yelp.com/biz/new-ichiro-new-york-2
+Gen,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/gen-brooklyn
+Blue Ribbon Sushi Izakaya,Cocktail Bars,4.0 star rating,https://www.yelp.com/biz/blue-ribbon-sushi-izakaya-new-york
+Yamato Restaurant,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/yamato-restaurant-brooklyn
+Pink Nori,Bars,4.0 star rating,https://www.yelp.com/biz/pink-nori-astoria
+Yama 49,Japanese,4.0 star rating,https://www.yelp.com/biz/yama-49-new-york
+Sushi Daizen,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/sushi-daizen-long-island-city
+Sushi of Gari 46,Japanese,4.0 star rating,https://www.yelp.com/biz/sushi-of-gari-46-new-york
+Seven Sushi Cafe,Japanese,4.0 star rating,https://www.yelp.com/biz/seven-sushi-cafe-brooklyn
+Mi-ne Sushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/mi-ne-sushi-new-york-3
+Miso Restaurant,Japanese,3.0 star rating,https://www.yelp.com/biz/miso-restaurant-brooklyn
+Sushi on Jones,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/sushi-on-jones-new-york
+Yuba,Asian Fusion,4.0 star rating,https://www.yelp.com/biz/yuba-new-york-2
+Maguro,Sushi Bars,3.5 star rating,https://www.yelp.com/biz/maguro-new-york
+TJ Asian Bistro,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/tj-asian-bistro-woodside
+Kaede Japanese Restaurant,Japanese,3.5 star rating,https://www.yelp.com/biz/kaede-japanese-restaurant-new-york-2
+Ageha Sushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/ageha-sushi-new-york
+sandobe,Karaoke,4.5 star rating,https://www.yelp.com/biz/sandobe-brooklyn
+Amura Japanese,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/amura-japanese-new-york
+Maguro,Sushi Bars,3.5 star rating,https://www.yelp.com/biz/maguro-new-york
+E Sushi,Asian Fusion,4.0 star rating,https://www.yelp.com/biz/e-sushi-brooklyn
+Jun Shokudo,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/jun-shokudo-brooklyn
+Inaka Asian Cuisine,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/inaka-asian-cuisine-brooklyn
+Mi-ne Sushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/mi-ne-sushi-new-york-3
+Mido,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/mido-new-york
+Inaka Sushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/inaka-sushi-brooklyn
+Seven Sushi Cafe,Japanese,4.0 star rating,https://www.yelp.com/biz/seven-sushi-cafe-brooklyn
+Oishi Bay,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/oishi-bay-new-york-2
+Poke,Japanese,4.0 star rating,https://www.yelp.com/biz/poke-new-york
+JJs Fusion,Asian Fusion,4.0 star rating,https://www.yelp.com/biz/jjs-fusion-astoria
+Samurai Mama,Soup,4.0 star rating,https://www.yelp.com/biz/samurai-mama-brooklyn
+Kyoto Sushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/kyoto-sushi-brooklyn-14
+MakiMaki,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/makimaki-new-york
+Ushiwakamaru,Salad,4.0 star rating,https://www.yelp.com/biz/ushiwakamaru-new-york-4
+Shobu Sushi & Grill,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/shobu-sushi-and-grill-brooklyn
+Sushi Of Gari,Japanese,4.0 star rating,https://www.yelp.com/biz/sushi-of-gari-new-york
+Kondo,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/kondo-astoria
+Kaede Japanese Restaurant,Japanese,3.5 star rating,https://www.yelp.com/biz/kaede-japanese-restaurant-new-york-2
+Jun Shokudo,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/jun-shokudo-brooklyn
+Shobu Sushi & Grill,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/shobu-sushi-and-grill-brooklyn
+Oishi Bay,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/oishi-bay-new-york-2
+Honshu,Japanese,4.0 star rating,https://www.yelp.com/biz/honshu-jersey-city-4
+Kondo,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/kondo-astoria
+MakiMaki,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/makimaki-new-york
+Sushi Of Gari,Japanese,4.0 star rating,https://www.yelp.com/biz/sushi-of-gari-new-york
+Kyoto Sushi,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/kyoto-sushi-brooklyn-14
+Simple Asia,Ramen,4.5 star rating,https://www.yelp.com/biz/simple-asia-staten-island
+Samurai Mama,Soup,4.0 star rating,https://www.yelp.com/biz/samurai-mama-brooklyn
+Sake Bar By Zabb,Japanese,4.0 star rating,https://www.yelp.com/biz/sake-bar-by-zabb-jackson-heights
+Okinawa Sushi & Grill,Thai,4.0 star rating,https://www.yelp.com/biz/okinawa-sushi-and-grill-hoboken-2
+Ushiwakamaru,Salad,4.0 star rating,https://www.yelp.com/biz/ushiwakamaru-new-york-4
+Momoya,Japanese,4.0 star rating,https://www.yelp.com/biz/momoya-new-york-2
+LUNA Asian Bistro & Lounge,Japanese,4.0 star rating,https://www.yelp.com/biz/luna-asian-bistro-and-lounge-astoria
+Roys Fish Market,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/roys-fish-market-new-york
+Kakurega Sushi,Seafood,5.0 star rating,https://www.yelp.com/biz/kakurega-sushi-queens-5
+Raku - Its Japanese II,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/raku-its-japanese-ii-new-york-2
+Norikoh,Asian Fusion,4.0 star rating,https://www.yelp.com/biz/norikoh-new-york
+Kaede Japanese Restaurant,Japanese,3.5 star rating,https://www.yelp.com/biz/kaede-japanese-restaurant-new-york-2
+Asea Fusion Modern Asian Bistro,Japanese,4.0 star rating,https://www.yelp.com/biz/asea-fusion-modern-asian-bistro-brooklyn
+Samurai Papa,Japanese,4.5 star rating,https://www.yelp.com/biz/samurai-papa-brooklyn-2
+Kosaka,Sushi Bars,4.5 star rating,https://www.yelp.com/biz/kosaka-new-york-2
+Koto Sushi,Japanese,4.0 star rating,https://www.yelp.com/biz/koto-sushi-brooklyn-4
+sandobe,Karaoke,4.5 star rating,https://www.yelp.com/biz/sandobe-brooklyn
+Haru Sushi,Sushi Bars,3.5 star rating,https://www.yelp.com/biz/haru-sushi-new-york-7
+Sakagura,Japanese,4.0 star rating,https://www.yelp.com/biz/sakagura-new-york
+Okinawa Sushi & Grill,Thai,4.0 star rating,https://www.yelp.com/biz/okinawa-sushi-and-grill-hoboken-2
+Beyond Sushi,Kosher,4.5 star rating,https://www.yelp.com/biz/beyond-sushi-new-york-5
+Suzume,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/suzume-brooklyn
+KaoruMC,Piano Bars,4.5 star rating,https://www.yelp.com/biz/kaorumc-new-york-4
+Samurai Fusion Sushi,Japanese,4.0 star rating,https://www.yelp.com/biz/samurai-fusion-sushi-brooklyn
+Omakase Room by Tatsu,Japanese,4.5 star rating,https://www.yelp.com/biz/omakase-room-by-tatsu-new-york
+Saketumi Asian Bistro,Asian Fusion,4.0 star rating,https://www.yelp.com/biz/saketumi-asian-bistro-brooklyn
+MoMo Sushi,Sushi Bars,3.5 star rating,https://www.yelp.com/biz/momo-sushi-new-york-2
+Juku,Izakaya,4.5 star rating,https://www.yelp.com/biz/juku-new-york
+52nd Sushi,Japanese,4.0 star rating,https://www.yelp.com/biz/52nd-sushi-woodside
+Zen Ramen & Sushi,Salad,4.0 star rating,https://www.yelp.com/biz/zen-ramen-and-sushi-new-york
+Sushi Gama,Japanese,4.0 star rating,https://www.yelp.com/biz/sushi-gama-new-york
+Shimizu,Sushi Bars,4.0 star rating,https://www.yelp.com/biz/shimizu-new-york
+Takahachi Tribeca Restaurant,Sushi Bars,3.5 star rating,https://www.yelp.com/biz/takahachi-tribeca-restaurant-new-york
+Bai Sushi,Japanese,4.0 star rating,https://www.yelp.com/biz/bai-sushi-astoria
+Beyond Sushi FiDi,Kosher,5.0 star rating,https://www.yelp.com/biz/beyond-sushi-fidi-new-york
+Sushi Tsushima,Sushi Bars,3.5 star rating,https://www.yelp.com/biz/sushi-tsushima-new-york
+LUNA Asian Bistro & Lounge,Japanese,4.0 star rating,https://www.yelp.com/biz/luna-asian-bistro-and-lounge-astoria
+Sushi Ginza Onodera,Japanese,4.0 star rating,https://www.yelp.com/biz/sushi-ginza-onodera-new-york-2
+Sushi D,Japanese,3.5 star rating,https://www.yelp.com/biz/sushi-d-brooklyn
+Chikarashi,Poke,4.0 star rating,https://www.yelp.com/biz/chikarashi-new-york
+Chisai Pok Bar,Poke,4.0 star rating,https://www.yelp.com/biz/chisai-pok%C3%A9-bar-brooklyn
+Beyond Sushi,Kosher,4.5 star rating,https://www.yelp.com/biz/beyond-sushi-new-york-5

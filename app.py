@@ -9,7 +9,6 @@ import yelp_scraper
 
 app = Flask(__name__)
 # app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:shuzi@localhost/Web_Crawler'
-app.debug = True
 
 
 # db = SQLAlchemy(app)
@@ -52,10 +51,10 @@ def post_tags():
 @app.route("/download/")
 def download_file():
     directory = os.getcwd()
-    return send_from_directory(directory, 'doc/result.csv', as_attachment=True)
+    return send_from_directory(directory, 'doc/'+requested_tags.tags+requested_tags.time+'.csv', as_attachment=True)
 
 
 if __name__ == "__main__":
     app.secret_key = 'super secret key'
     app.config['SESSION_TYPE'] = 'redis'
-    app.run()
+    app.run(host='192.168.1.14',port=80,threaded=True,debug=True)
