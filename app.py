@@ -4,6 +4,7 @@ import os
 import cralwer
 import stackoverflow_scraper
 import yelp_scraper
+import time
 
 # from flask_sqlalchemy import SQLAlchemy
 
@@ -13,7 +14,7 @@ app = Flask(__name__)
 
 # db = SQLAlchemy(app)
 # SESSION_TYPE = 'redis'
-
+path = "C:\Users\Bear\class\Easy_Crawler\doc"
 class requested_tags():
     tags = ""
     time = 0
@@ -51,10 +52,27 @@ def post_tags():
 @app.route("/download/")
 def download_file():
     directory = os.getcwd()
-    return send_from_directory(directory, 'doc/'+requested_tags.tags+requested_tags.time+'.csv', as_attachment=True)
+    return send_from_directory(directory, 'doc/'+requested_tags.tags+str(requested_tags.time)+'.csv', as_attachment=True)
 
+def listDir(fileDir):
+    for eachFile in os.listdir(fileDir):
+        if os.path.isfile(fileDir+"/"+eachFile):   #if it's a file 
+            ft = os.stat(fileDir+"/"+eachFile);
+            ltime = int(ft.st_mtime); #get the last mod time
+            #print "file"+path+"/"+eachFile+"the last mod time:"+str(ltime);
+            ntime = int(time.time())-3600*12; #get present time -12 hours
+            if ltime<=ntime :         
+                print "delete file in"+fileDir+"/"+eachFile;
+                os.remove(fileDir+"/"+eachFile);   #delete file 12 hours ago
 
+        elif os.path.isdir(fileDir+"/"+eachFile) :    #if it's a dir
+            listDir(fileDir+"/"+eachFile);
+			
 if __name__ == "__main__":
     app.secret_key = 'super secret key'
     app.config['SESSION_TYPE'] = 'redis'
-    app.run(host='192.168.1.14',port=80,threaded=True,debug=True)
+    app.run(host='0.0.0.0',port=80,threaded=True,debug=True) 
+    while True :   
+        time.sleep(3600*12);   
+        print "12 hours wake up"
+        listDir(path);
