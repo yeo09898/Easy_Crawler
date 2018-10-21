@@ -71,7 +71,7 @@ def listDir(fileDir):
 if __name__ == "__main__":
     app.secret_key = 'super secret key'
     app.config['SESSION_TYPE'] = 'redis'
-    app.run(host='0.0.0.0',port=80,threaded=True,debug=True) 
+    app.run(host='0.0.0.0',port=5000,threaded=True,debug=True) 
     while True :   
         time.sleep(3600*12);   
         print "12 hours wake up"
